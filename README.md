@@ -376,7 +376,7 @@ The following screenshots demonstrate the core functionality of Arcadia Pro.
 
 | Portfolio Frontier | 
 |----------------------|
-| ![Allocation](screenshots/Frontier.png) | 
+| ![Allocation](Screenshots/Frontier.png) | 
 
 ---
 
