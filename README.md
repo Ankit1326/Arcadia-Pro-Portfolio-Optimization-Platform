@@ -362,17 +362,21 @@ Interactive dashboard includes
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Preview
 
-Add screenshots here.
+The following screenshots demonstrate the core functionality of Arcadia Pro.
 
-```
-screenshots/dashboard.png
+| Dashboard | 
+|-----------|
+| ![Dashboard](screenshots/dashboard.png) | 
 
-screenshots/frontier.png
+| Risk Analytics | 
+|----------------|
+| ![Risk Analytics](screenshots/risk.png) | 
 
-screenshots/risk.png
-```
+| Portfolio Allocation | 
+|----------------------|
+| ![Allocation](screenshots/allocation.png) | 
 
 ---
 
