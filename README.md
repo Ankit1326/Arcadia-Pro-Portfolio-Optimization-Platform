@@ -368,15 +368,15 @@ The following screenshots demonstrate the core functionality of Arcadia Pro.
 
 | Dashboard | 
 |-----------|
-| ![Dashboard](screenshots/dashboard.png) | 
+| ![Dashboard](Screenshots/dashboard.png) | 
 
 | Risk Analytics | 
 |----------------|
-| ![Risk Analytics](screenshots/risk.png) | 
+| ![Risk Analytics](Screenshots/Risk.png) | 
 
-| Portfolio Allocation | 
+| Portfolio Frontier | 
 |----------------------|
-| ![Allocation](screenshots/allocation.png) | 
+| ![Allocation](screenshots/Frontier.png) | 
 
 ---
 
