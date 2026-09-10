@@ -1,4 +1,4 @@
-# 🚀 Arcadia Pro – AI Multi-Agent Portfolio Optimization Platform
+# Arcadia Pro – AI Multi-Agent Portfolio Optimization Platform
 
 > **An Institutional-Grade Portfolio Optimization & Risk Analytics Platform powered by AI, LangGraph, and Modern Portfolio Theory.**
 
@@ -8,9 +8,9 @@ Designed as a Bloomberg Terminal-inspired research platform, it allows users to 
 
 ---
 
-# 🌟 Features
+# Features
 
-## 📊 Portfolio Optimization
+## Portfolio Optimization
 
 - Markowitz Mean-Variance Optimization
 - Maximum Sharpe Portfolio
@@ -23,7 +23,7 @@ Designed as a Bloomberg Terminal-inspired research platform, it allows users to 
 
 ---
 
-## 📈 Risk Analytics
+## Risk Analytics
 
 - Historical VaR
 - Parametric VaR
@@ -38,13 +38,11 @@ Designed as a Bloomberg Terminal-inspired research platform, it allows users to 
 
 ---
 
-## 🧮 Mathematical Finance
+## Mathematical Finance
 
 Implemented using academic portfolio management techniques including:
 
 - Modern Portfolio Theory (Markowitz)
-- Utility Theory
-- Certainty Equivalent
 - Risk Premium
 - Lagrangian Optimization
 - Karush-Kuhn-Tucker (KKT) Conditions
@@ -54,35 +52,7 @@ Implemented using academic portfolio management techniques including:
 
 ---
 
-## 🤖 AI-Powered Investment Insights
-
-The application integrates Claude AI to generate intelligent portfolio analysis in three modes:
-
-### Beginner Mode
-
-- Simple language
-- Portfolio health
-- Easy-to-understand recommendations
-
-### Advanced Mode
-
-- Professional portfolio report
-- Risk statistics
-- Performance metrics
-- Constraint analysis
-
-### Quant Mode
-
-- Matrix calculations
-- Utility function evaluation
-- Lagrangian formulation
-- KKT verification
-- Shadow prices
-- Mathematical derivations
-
----
-
-# 🧠 LangGraph Multi-Agent Architecture
+# LangGraph Multi-Agent Architecture
 
 The platform includes a custom LangGraph workflow consisting of multiple intelligent agents.
 
@@ -126,7 +96,7 @@ Responsibilities
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 ```
                     User Input
@@ -154,7 +124,7 @@ Responsibilities
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Arcadia-Pro/
@@ -195,7 +165,7 @@ Arcadia-Pro/
 
 ---
 
-# 📚 Mathematical Models Used
+# Mathematical Models Used
 
 The project implements
 
@@ -216,7 +186,7 @@ The project implements
 
 ---
 
-# 💻 Technology Stack
+# Technology Stack
 
 ## Programming
 
@@ -235,91 +205,7 @@ The project implements
 
 ---
 
-# 🌐 Deployment
-
-The project can run on
-
-- ✅ Google Colab
-- ✅ Jupyter Notebook
-- ✅ VS Code
-- ✅ Replit
-- ✅ Local Python Environment
-
----
-
-# ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Arcadia-Pro.git
-
-cd Arcadia-Pro
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-or
-
-```bash
-pip install numpy pandas scipy plotly yfinance cvxpy anthropic langgraph
-```
-
----
-
-# 🔑 API Configuration
-
-Create a `.env` file
-
-```text
-ANTHROPIC_API_KEY=your_api_key
-```
-
-or directly configure inside the notebook
-
-```python
-client = anthropic.Anthropic(
-    api_key="YOUR_API_KEY"
-)
-```
-
----
-
-# ▶ Running the Project
-
-### Google Colab
-
-Open
-
-```
-PART8_Master_Notebook.py
-```
-
-Run all cells.
-
----
-
-### Replit
-
-1. Import the repository into Replit.
-
-2. Add your Anthropic API key to Secrets.
-
-```
-ANTHROPIC_API_KEY
-```
-
-3. Click **Run**.
-
-The application will launch directly inside Replit.
-
----
-
-# 📊 Dashboard Features
+#  Dashboard Features
 
 Interactive dashboard includes
 
@@ -334,7 +220,7 @@ Interactive dashboard includes
 
 ---
 
-# 🎯 Key Highlights
+# Key Highlights
 
 - Multi-Agent AI Architecture
 - Institutional Portfolio Optimization
@@ -347,7 +233,7 @@ Interactive dashboard includes
 
 ---
 
-# 📖 Future Improvements
+# Future Improvements
 
 - Live Broker Integration
 - Alpaca Trading API
