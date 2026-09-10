@@ -266,30 +266,6 @@ The following screenshots demonstrate the core functionality of Arcadia Pro.
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository.
-
-2. Create a feature branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to your branch.
-
-```bash
-git push origin feature-name
-```
-
 5. Open a Pull Request.
 
 ---
@@ -317,5 +293,3 @@ Interests
 - Risk Analytics
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
