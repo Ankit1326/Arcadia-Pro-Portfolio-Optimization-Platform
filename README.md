@@ -1,10 +1,8 @@
-# Arcadia Pro – AI Multi-Agent Portfolio Optimization Platform
+# Arcadia Pro – Portfolio Optimization Platform
 
-> **An Institutional-Grade Portfolio Optimization & Risk Analytics Platform powered by AI, LangGraph, and Modern Portfolio Theory.**
+> **An Institutional-Grade Portfolio Optimization & Risk Analytics Platform.**
 
 Arcadia Pro is an end-to-end quantitative portfolio management system that combines classical finance, mathematical optimization, multi-agent reasoning, and AI-generated investment insights into a single interactive platform.
-
-Designed as a Bloomberg Terminal-inspired research platform, it allows users to optimize portfolios, analyze portfolio risk, perform scenario analysis, and receive explainable AI recommendations.
 
 ---
 
@@ -14,10 +12,8 @@ Designed as a Bloomberg Terminal-inspired research platform, it allows users to 
 
 - Markowitz Mean-Variance Optimization
 - Maximum Sharpe Portfolio
-- Minimum Variance Portfolio
 - Utility-Optimal Portfolio
 - Efficient Frontier Generation
-- Black-Litterman Return Adjustment
 - Risk Aversion Based Optimization
 - Long Only & Custom Constraint Support
 
@@ -26,8 +22,6 @@ Designed as a Bloomberg Terminal-inspired research platform, it allows users to 
 ## Risk Analytics
 
 - Historical VaR
-- Parametric VaR
-- Monte Carlo VaR
 - Conditional VaR (Expected Shortfall)
 - Rolling Sharpe Ratio
 - Maximum Drawdown
@@ -170,8 +164,6 @@ Arcadia-Pro/
 The project implements
 
 - Markowitz Portfolio Optimization
-- Black-Litterman Model
-- CAPM
 - Utility Theory
 - CARA Utility
 - CRRA Utility
@@ -236,10 +228,7 @@ Interactive dashboard includes
 # Future Improvements
 
 - Live Broker Integration
-- Alpaca Trading API
-- Zerodha Kite Integration
 - Real-Time Market Data
-- PostgreSQL Storage
 - User Authentication
 - Portfolio Backtesting Engine
 - Reinforcement Learning Allocation
